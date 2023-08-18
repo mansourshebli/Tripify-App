@@ -17,4 +17,8 @@
 2. ```Open the repo with your preferred IDE```
 3. ```Enjoy!```
 
-** DEMO 🧪**
+# **DEMO 🧪**
+
+
+https://github.com/mansourshebli/Tripify-App/assets/132643497/28776678-d8ab-4eb6-95bf-2541c96f976d
+
