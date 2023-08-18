@@ -11,6 +11,7 @@ Dreaming of the perfect getaway but feeling overwhelmed by the endless decisions
 
 # **How to use 😄 **
 > 💡: Simple
+
 ```Clone or download the whole repo```
 ```Choose your preferred IDE```
 ```Enjoy!```
