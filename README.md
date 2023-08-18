@@ -1,4 +1,4 @@
-# **Tripify-App**
+# **Tripify-App GUI**
 > This app is created using python with some advanced libraries such as; openai, os, sys, tkcalendar, and mainly tkinter.
 Dreaming of the perfect getaway but feeling overwhelmed by the endless decisions and planning? Say hello to your new travel best friend – Tripify! 🌍✈️
 
