@@ -12,6 +12,6 @@ Dreaming of the perfect getaway but feeling overwhelmed by the endless decisions
 # **How to use 😄 **
 > 💡: Simple
 
-```Clone or download the whole repo```
-```Choose your preferred IDE```
-```Enjoy!```
+1. ```Clone or download the whole repo```
+2. ```Open the repo with your preferred IDE```
+3. ```Enjoy!```
