@@ -3,6 +3,11 @@
 
 <p>Dreaming of the perfect getaway but feeling overwhelmed by the endless decisions and planning? Say hello to your new travel best friend – Tripify! 🌍✈️</p>
 
+# **DEMO 🧪**
+
+
+https://github.com/mansourshebli/Tripify-App/assets/132643497/d8aaf4fa-d9e9-428b-8aa7-98a5b8511aa7
+
 
 # **What is Tripify 🤔?** 
 <p>Tripify is your all-in-one travel app, blending Python's tech with OpenAI's smarts. It plans trips, offers tips. Also, Creats easy schedules, local insights, secure storage – all in one place. Travel made awesome!</p> 
@@ -17,9 +22,5 @@
 2. ```Open the repo with your preferred IDE```
 3. ```Enjoy!```
 
-# **DEMO 🧪**
-
-
-https://github.com/mansourshebli/Tripify-App/assets/132643497/d8aaf4fa-d9e9-428b-8aa7-98a5b8511aa7
 
 
