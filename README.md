@@ -10,7 +10,7 @@
 # **What problem will Tripify solve ⁉️**
 <p>Tripify is your solution to the headaches of travel planning. Have you ever felt overwhelmed by the details of organizing a trip? That's where Tripify steps in, using its clever mix of user-friendly Python technology and the brilliance of OpenAI. It takes the stress out of creating travel schedules, so you don't need to worry about missing out on the best parts of your destination. Plus, it's like having a travel buddy in your pocket – offering advice on where to go and what to do. Say goodbye to the confusion and chaos of travel planning – with Tripify, your trips are smooth, fun, and a breeze to organize.</p>
 
-# **How to use 😄 **
+# **How to use 😄**
 > 💡: Simple
 
 1. ```Clone or download the whole repo```
