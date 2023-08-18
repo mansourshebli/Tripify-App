@@ -5,7 +5,9 @@
 
 # **DEMO 🧪**
 
-Uploading Screen Recording 2023-08-18 at 10.34.17 PM.mov…
+
+https://github.com/mansourshebli/Tripify-App/assets/132643497/8762475a-7e6b-4ede-89ef-084f0d584540
+
 
 
 # **What is Tripify 🤔?** 
