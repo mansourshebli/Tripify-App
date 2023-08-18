@@ -6,7 +6,11 @@
 # **DEMO 🧪**
 
 
-https://github.com/mansourshebli/Tripify-App/assets/132643497/8762475a-7e6b-4ede-89ef-084f0d584540
+
+https://github.com/mansourshebli/Tripify-App/assets/132643497/73d463d2-2402-4826-8bad-48dbc90633ce
+
+
+
 
 
 
