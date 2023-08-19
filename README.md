@@ -11,9 +11,6 @@ https://github.com/mansourshebli/Tripify-App/assets/132643497/73d463d2-2402-4826
 
 
 
-
-
-
 # **What is Tripify 🤔?** 
 <p>Tripify is your all-in-one travel app, blending Python's tech with OpenAI's smarts. It plans trips, offers tips. Also, Creats easy schedules, local insights, secure storage – all in one place. Travel made awesome!</p> 
 
@@ -24,8 +21,14 @@ https://github.com/mansourshebli/Tripify-App/assets/132643497/73d463d2-2402-4826
 > 💡: Simple
 
 1. ```Clone or download the whole repo```
-2. ```Open the repo with your preferred IDE```
-3. ```Enjoy!```
+2. ```
+    1. Make an account or sign in https://platform.openai.com/signup
+    2. Click "View API Keys" from the top right menu.
+    3. Click "Create new secret key".
+    4. Implement the API key in you App as OPENAI_API_KEY
+   ```
+3. ```Open the repo with your preferred IDE```
+4. ```Enjoy!```
 
 
 
