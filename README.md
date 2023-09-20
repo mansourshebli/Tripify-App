@@ -20,7 +20,7 @@ https://github.com/mansourshebli/Tripify-App/assets/132643497/73d463d2-2402-4826
 # **How to use 😄**
 > 💡: Simple
 
-1. ``` Clone or download the whole repo ```
+1. ``` Clone or download the whole repo  ```
 2. ```
     1. Make an account or sign in https://platform.openai.com/signup
     2. Click "View API Keys" from the top right menu.
