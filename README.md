@@ -5,7 +5,6 @@
 
 # **DEMO 🧪**
 
-@mansourshebli
 
 https://github.com/mansourshebli/Tripify-App/assets/132643497/73d463d2-2402-4826-8bad-48dbc90633ce
 
